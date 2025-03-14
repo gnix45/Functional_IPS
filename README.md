@@ -20,8 +20,8 @@ This script monitors a Snort log file for potential attacks and automatically bl
 ## 🚀 Installation
 ```sh
 # Clone this repository
-git clone https://github.com/yourusername/snort-log-monitor.git
-cd snort-log-monitor
+git clone https://github.com/gnix45/Functional_IPS.git
+cd Functional_IPS
 
 # Ensure Python is installed on your system
 python3 --version
