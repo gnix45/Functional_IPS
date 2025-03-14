@@ -52,6 +52,8 @@ The script will continuously monitor the log file and block malicious IPs.
 ## 👥 Authors
 - **Sharon**  
 - **Favour**
+## Supervisor
+- **PAVEL**
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
